@@ -25,7 +25,7 @@ def get_com(keyword, prin = None, cyclenum = None):
     return portlst
             
 
-#testing multiple LFMS at once
+
 """
 comlst = get_com('Prolific', prin = True, cyclenum = True)
 slst = []
